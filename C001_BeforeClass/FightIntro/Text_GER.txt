@@ -1,0 +1,6 @@
+Tag,Content
+Intro1,"Sidney steht auf, rollt die Ärmel und ballt die Fäuste."
+Intro2,Einige der Mädchen verstecken sich und einige schreien nach Blut.
+Intro3,Sie rennt wütend auf dich zu.Mach dich zum Kampf bereit!
+Intro4A,"(Nutze A, S, K, L wenn der Schlag die rote linie berühert .)"
+Intro4B,(klicke auf das rote Felt enn ein Schlag ihn berühert.)
