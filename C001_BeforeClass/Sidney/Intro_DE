@@ -1,0 +1,22 @@
+Stage,LoveReq,SubReq,VarReq,IntroText,Image
+0,0,0,,Was willst du? (Sie starrt dich an.),SidneyFace.jpg
+0,0,0,AmandaInBondage,Geil! Ich wollte die schon seit Wochen fesseln.|Und was willst du? (Sie starrt dich an.),SidneyFace.jpg
+10,0,0,,(Sie starrt das braunhaarige Mädchen an.),SidneyStare.jpg
+20,0,0,,(Sie verschränkt die Arme und schaut dir in die Augen.),SidneyFace.jpg
+30,0,0,,(Sie starrt wieder das braunhaarige Mädchen an.),SidneyStare.jpg
+40,0,0,,(Sie dreht sich weg und ignoriert dich.),SidneyBack.jpg
+40,2,0,,Die Stunde beginnt gleich,lass nachher weiterreden.,SidneyFace.jpg
+40,-2,0,,Red nicht mit mir du Nutte!|(Sie dreht sich weg ud ignoriert dich.),SidneyBack.jpg
+40,0,0,AmandaInBondage,Sieht sieht so beschämd aus, sehr schön.Lass uns nach der Stunde reden.|(Sie schaut Amanda an und gibt ihr ein Daumen rauf.),SidneyFace.jpg
+100,0,0,,Fuck!  Du warst in meim Rucksack?|(Sie scheind Nervös das du ihre Seile gefunden hast.),SidneyFace.jpg
+110,0,0,,(Sie schaut dich neugierig an.),SidneyFace.jpg
+200,0,0,,Hast du die aus meim Rucksack geklaut?|(Sie schaut wütend.),SidneyFace.jpg
+210,0,0,,Gib mir die Seile wieder!,SidneyFace.jpg
+220,0,0,,Warte nur bis ich hier rausgomme!|(Sie bemüht sich vergebens, sich zu befreien.),SidneyBondageFront.jpg
+220,0,0,AmandaInBondage,Zumindest sieht sie gedemütigter als ich aus.|(Sie schaut Amanda an und grinst.),SidneyBondageFront.jpg
+230,0,0,,,SidneyBondageBack.jpg
+240,0,0,,,SidneyBondageHug.jpg
+250,0,0,,,SidneyBondageKiss.jpg
+300,0,0,,Du Dieb!  Wir haben nichts zu bereden.,SidneyBack.jpg
+310,0,0,,Ich fass es nicht das du mich hier gefesselt hast.|Darüber reden wir noch.,SidneyFace.jpg
+310,0,0,AmandaInBondage,"Ich fass es nicht das du mich hier gefesselt hast.|enigstens ist sie noch gefesselt.",SidneyFace.jpg
