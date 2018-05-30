@@ -1,0 +1,9 @@
+Stage,LoveReq,SubReq,VarReq,Interaction,Result,NextStage,LoveMod,SubMod,Function
+0,0,0,,(Öffne die Verschlüsse.),"Du öffnest die Verschlüsse.|Du kannst Seile in der Tasche sehen.",10,0,0,
+0,0,0,,(Zieh an der Tasche.),Hör auf zu ziehen Du Depp!  Was machst du?|(Sie zieht die Tasche von dir weg.),30,0,0,SidneyAnnoy()
+10,0,0,,(Schließe die Verschlüsse.),Du schiebst vorsichtig die Riemen wieder rein.,0,0,0,
+10,0,0,,(Stehl die Seile.),Du stielst vorsichtig die Seile aus der Tasche .,20,0,0,GetRope()
+10,0,0,,(Frage wegen den Seilen.),,30,0,0,SidneyRope()
+10,0,0,,(Zieh an der Tasche.),Hör auf zu ziehen du Depp!  Was machst du denn?|(Sie zieht die Tasche von dir weg.),30,0,0,SidneyAnnoy()
+20,0,0,,(Zieh an der Tasche.),Hör auf zu ziehen du Depp!  as machst du denn?|(Sie zieht die Tasche von dir weg.),30,0,0,SidneyAnnoy()
+
